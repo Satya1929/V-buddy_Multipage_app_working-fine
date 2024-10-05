@@ -1,4 +1,4 @@
-# pages/2_🤖_AI_QA_Page.py
+# pages/2_🤖_AI_QA_Page.py  (wroking fine , but have to upload all context pdfs before asking Q)
 
 import streamlit as st
 import google.generativeai as genai
