@@ -40,21 +40,21 @@ display_contributor(
     image_url="https://media.licdn.com/dms/image/v2/D5603AQGQw0y57m5GPw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1701676465547?e=1733356800&v=beta&t=SBs18AqHvhld2MmC9dnk_wGGCdoUDUHTRezDtVpaoA8"  # Replace with actual image URL
 )
 
-# Contributor 3 - Shreyas Mohanty
-display_contributor(
-    name="Shreyas Mohanty", 
-    linkedin_url="https://www.linkedin.com/in/shreyas-mohanty-8a899524a/",
-    github_url="https://github.com/Zeref101",
-    image_url="https://avatars.githubusercontent.com/u/92572978?s=400&u=9c51c334c99b1cc1f4cc3c604ba412758dcbf07c&v=4"  # Replace with actual image URL
-)
+# # Contributor 3 - Shreyas Mohanty
+# display_contributor(
+#     name="Shreyas Mohanty", 
+#     linkedin_url="https://www.linkedin.com/in/shreyas-mohanty-8a899524a/",
+#     github_url="https://github.com/Zeref101",
+#     image_url="https://avatars.githubusercontent.com/u/92572978?s=400&u=9c51c334c99b1cc1f4cc3c604ba412758dcbf07c&v=4"  # Replace with actual image URL
+# )
 
-# Contributor 4 - Saumya Gupta
-display_contributor(
-    name="Saumya Gupta", 
-    linkedin_url="https://www.linkedin.com/in/saumya-gupta-1b4528269/",
-    github_url="https://github.com/Tubelight30",
-    image_url="https://avatars.githubusercontent.com/u/129746830?v=4"  # Replace with actual image URL
-)
+# # Contributor 4 - Saumya Gupta
+# display_contributor(
+#     name="Saumya Gupta", 
+#     linkedin_url="https://www.linkedin.com/in/saumya-gupta-1b4528269/",
+#     github_url="https://github.com/Tubelight30",
+#     image_url="https://avatars.githubusercontent.com/u/129746830?v=4"  # Replace with actual image URL
+# )
 
 # Closing Note
 st.write("We thank all contributors for their efforts and dedication to making this project a success!")
