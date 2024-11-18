@@ -30,8 +30,6 @@ display_contributor(
     image_url="https://avatars.githubusercontent.com/u/119441530?v=4"  # Replace with actual image URL
 )
 
-# https://avatars.githubusercontent.com/u/119441530?v=4
-
 # Contributor 2 - Om Aditya
 display_contributor(
     name="Om Aditya", 
