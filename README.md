@@ -35,6 +35,9 @@
 
 Initially prototyped to help the **VIT** community navigate complex academic regulations, V-Buddy has grown into a scalable solution that supports **6,000+ members**, reducing response times by **50%** and significantly improving user satisfaction.
 
+### 🌐 Live Dashboard
+[**Try V-Buddy Live Here →**](https://v-buddy.streamlit.app/AI_QA_Page)
+
 ---
 
 ## ⚙️ How It Works
