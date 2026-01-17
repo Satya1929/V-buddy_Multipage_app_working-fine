@@ -4,10 +4,10 @@
 	<em><code>"Empowering Community Support with Context-Aware Generative AI"</code></em>
 </p>
 <p align="left">
-	<!-- <img src="https://img.shields.io/github/last-commit/Satya1929/V-buddy_Multipage_app_working-fine?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit"> -->
+	<img src="https://img.shields.io/github/last-commit/Satya1929/V-buddy_Multipage_app_working-fine?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/Satya1929/V-buddy_Multipage_app_working-fine?style=default&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="streamlit">
-    <img src="https://img.shields.io/badge/Gemini_2.5_Flash-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="gemini">
+	<!-- <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="streamlit">
+    <img src="https://img.shields.io/badge/Gemini_2.5_Flash-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="gemini"> -->
 </p>
 </div>
 <br clear="right">
