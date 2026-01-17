@@ -7,6 +7,26 @@ from utils import get_all_pdf_texts
 
 st.set_page_config(page_title="Backend Page", page_icon="📂")
 
+# --- Authentication Logic ---
+if "backend_authenticated" not in st.session_state:
+    st.session_state.backend_authenticated = False
+
+if not st.session_state.backend_authenticated:
+    st.title("🔒 Backend Access")
+    st.warning("⚠️ Access Restricted: Only for backend people")
+    
+    password = st.text_input("Enter Password", type="password")
+    if st.button("Unlock"):
+        if password == "Backend1929":
+            st.session_state.backend_authenticated = True
+            st.rerun()
+        else:
+            st.error("Incorrect Password")
+    
+    # Stop execution if not authenticated so the rest of the page doesn't load
+    st.stop()
+# ----------------------------
+
 st.title("Settings & Knowledge Base")
 st.write("Upload PDF files to permanently add them to the AI's knowledge base.")
 
