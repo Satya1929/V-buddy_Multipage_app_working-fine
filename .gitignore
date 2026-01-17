@@ -1,0 +1,20 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit
+.streamlit/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional: Local database files (Keep this if you want to push your PDFs, comment it out if you don't)
+# Database PDFs/

@@ -30,14 +30,6 @@ display_contributor(
     image_url="https://avatars.githubusercontent.com/u/119441530?v=4"  # Replace with actual image URL
 )
 
-# Contributor 2 - Om Aditya
-display_contributor(
-    name="Om Aditya", 
-    linkedin_url="www.linkedin.com/in/om-aditya-495312260",
-    github_url="https://github.com/virtuoso8817",
-    image_url="https://media.licdn.com/dms/image/v2/D5603AQGQw0y57m5GPw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1701676465547?e=1733356800&v=beta&t=SBs18AqHvhld2MmC9dnk_wGGCdoUDUHTRezDtVpaoA8"  # Replace with actual image URL
-)
-
 # Closing Note
 st.write("We thank all contributors for their efforts and dedication to making this project a success!")
 
