@@ -1,7 +1,7 @@
 <div align="left" style="position: relative;">
 <h1>V-Buddy</h1>
 <p align="left">
-	<em><code>"Empowering Community Support with Context-Aware Generative AI"</code></em>
+	<em><code>"Engineered a context-aware RAG chatbot using Python and Google Gemini, automating FAQ responses for 6,000+ users with a 50% increase in support efficiency"</code></em>
 </p>
 <p align="left">
 	<img src="https://img.shields.io/github/last-commit/Satya1929/V-buddy_Multipage_app_working-fine?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
